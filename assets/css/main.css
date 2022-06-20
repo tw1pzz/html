@@ -42,7 +42,7 @@ section {
 }
 
 .section-bg {
-    background: url('..assets/img/bg.jpg');
+    background: url('../img/bg.jpg');
     color: #fff;
 }
 
