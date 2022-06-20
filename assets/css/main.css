@@ -1,16 +1,16 @@
 @font-face {
     font-family: "Montserrat";
-    src: url("../fonts/Montserrat-Bold.ttf");
+    src: url("..assets/fonts/Montserrat-Bold.ttf");
     font-weight: 700;
 }
 @font-face {
     font-family: "Montserrat";
-    src: url("../fonts/Montserrat-Regular.ttf");
+    src: url("..assets/fonts/Montserrat-Regular.ttf");
     font-weight: 400;
 }
 @font-face {
     font-family: "Lora";
-    src: url("../fonts/Lora-Regular.ttf");
+    src: url("..assets/fonts/Lora-Regular.ttf");
     font-weight: 400;
 }
 
@@ -42,7 +42,7 @@ section {
 }
 
 .section-bg {
-    background: url('../img/bg.jpg');
+    background: url('..assets/img/bg.jpg');
     color: #fff;
 }
 
